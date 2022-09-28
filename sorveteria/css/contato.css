@@ -99,6 +99,10 @@ input, select{
   height: 1.5rem;
 }
 
+h2{
+  font-size: 3.5rem;
+}
+
 input.submit{
   background-color: #732c02;
   color: #f2dec5;
